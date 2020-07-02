@@ -1,5 +1,5 @@
 # employee-attrition-rate
-### HackerEarth ML Challenge - Predict the employee attrition rate in organizations.
+### Predict the employee attrition rate in organizations.
 
 
 ## Problem statement
